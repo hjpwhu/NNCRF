@@ -1,0 +1,1 @@
+/usr/bin/c++   -w -msse3 -funroll-loops -O3   CMakeFiles/LSTMCRFMLLabeler.dir/LSTMCRFMLLabeler.o  -o LSTMCRFMLLabeler -rdynamic -lopenblas 

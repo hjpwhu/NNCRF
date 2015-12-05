@@ -1,0 +1,1 @@
+/usr/bin/c++   -w -msse3 -funroll-loops -O3   CMakeFiles/RNNLabeler.dir/RNNLabeler.o  -o RNNLabeler -rdynamic -lopenblas 

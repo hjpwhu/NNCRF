@@ -1,0 +1,1 @@
+/usr/bin/c++   -w -msse3 -funroll-loops -O3   CMakeFiles/Sparse2TNNLabeler.dir/Sparse2TNNLabeler.o  -o Sparse2TNNLabeler -rdynamic -lopenblas 
